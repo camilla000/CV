@@ -1,4 +1,4 @@
-## Your Name
+## Camilla Souza Lima
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,10 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**YHA** (2018 - Present)  
+_Night Duty Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Sole member of staff on duty, responsible for over 160 guests. Dealing and resolving complaints and high pressure situations.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -53,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2021 - August 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,9 +63,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Universidade Paulista - UNIP (2009 - 2013)
 
-- Subject, any specialisms
+- BA Degree in Social Communication & Advertising
 - Grade
 - Other cool stuff
 
@@ -74,4 +75,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Indoor climbing (bouldering)
