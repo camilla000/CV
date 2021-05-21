@@ -1,6 +1,9 @@
 ## Camilla Souza Lima
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Some facts about me:
+
+After graduating in Social Communication in São Paulo I came to England to be a volunteer at <a href="https://www.camphilldevon.org.uk/">Camphill Devon</a> before moving to London and working in hospitality.
+I am not scared of challenges or changes and look forward to starting my new career as a software developer.
 
 ## Projects
 
@@ -11,16 +14,17 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**YHA** (2018 - Present)  
+**YHA** ( December 2018 - Present)  
 _Night Duty Manager_
 
 - Sole member of staff on duty, responsible for over 160 guests. Dealing and resolving complaints and high pressure situations.
+- Administration duties including email and phone correspondence, bookings.
+- Management, payment processing, check ins and check outs.
 
+**The Crown and Anchor, Euston** (April 2018 - January 2019)  
+_Team Member_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Essential teamwork and communication skills.
 
 ## Skills
 
@@ -47,27 +51,24 @@ Consider skills relevent to software development. Then consider your best skills
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Bilingual. I'm a native Portuguese (BR) speaker.
+- I can work independently and under pressure.
+
 
 ## Education
 
 #### Makers Academy (May 2021 - August 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Highly selective 12 week intensive coding bootcamp with only 10% acceptance rate.
+
+- Focus on Test Driven Development, with an emphasis on pair programming.
+- Using paring in order to problem solve efficiently, requiring teamwork and communication.
+- Ruby
+
 
 #### Universidade Paulista - UNIP (2009 - 2013)
 
 - BA Degree in Social Communication & Advertising
-- Grade
-- Other cool stuff
+
 
 #### Any other qualifications
 
@@ -75,4 +76,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Indoor climbing (bouldering)
+Indoor climbing (bouldering),
+Clay modeling
