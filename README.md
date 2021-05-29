@@ -5,12 +5,12 @@ Some facts about me:
 After graduating in Social Communication in São Paulo I came to England to be a volunteer at <a href="https://www.camphilldevon.org.uk/">Camphill Devon</a> before moving to London and working in hospitality.
 I am not scared of challenges or changes and look forward to starting my new career as a software developer.
 
-## Projects
+<!-- ## Projects -->
 
-| Name                         | Description       | Tech/tools        |
+<!-- | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## Work Experience
 
@@ -26,10 +26,10 @@ _Team Member_
 
 - Essential teamwork and communication skills.
 
-## Skills
+<!-- ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
+<!-- (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
 -What was the situation/task? (ST)
@@ -45,11 +45,11 @@ Consider skills relevent to software development. Then consider your best skills
 
 - Experience
 - Achievements
-- Evidence (STAR)
+- Evidence (STAR) -->
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this) -->
 
 - Bilingual. I'm a native Portuguese (BR) speaker.
 - I can work independently and under pressure.
@@ -70,9 +70,9 @@ Highly selective 12 week intensive coding bootcamp with only 10% acceptance rate
 - BA Degree in Social Communication & Advertising
 
 
-#### Any other qualifications
+<!-- #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
 
