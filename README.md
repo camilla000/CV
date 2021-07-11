@@ -2,8 +2,7 @@
 
 Some facts about me:
 
-After graduating in Social Communication in São Paulo I came to England to be a volunteer at <a href="https://www.camphilldevon.org.uk/">Camphill Devon</a> before moving to London and working in hospitality.
-I am not scared of challenges or changes and look forward to starting my new career as a software developer.
+I came to England to volunteer at <a href="https://www.camphilldevon.org.uk/">Camphill Devon</a> after graduating in Social Communication in São Paulo, before moving to London and working in hospitality. I am not afraid of new challenges or changes, and I am excited to begin my new career as a software engineer.
 
 
 ## Relevant Skills
