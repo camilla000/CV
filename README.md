@@ -6,17 +6,22 @@ After graduating in Social Communication in São Paulo I came to England to be a
 I am not scared of challenges or changes and look forward to starting my new career as a software developer.
 
 
-## Skills
+## Relevant Skills
 
 - Test-driven development
 - Git
 - Ruby
+- JavaScript
 - HTML and CSS
 - Bootstrap
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilla000&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Another Skill
+
+
+
+#### Another Skills
 
 
 
@@ -36,6 +41,7 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 - Ruby
 - Rspec
 - Ruby 
+- JavaScript
 
 
 #### Universidade Paulista - UNIP (2009 - 2013)
@@ -44,7 +50,7 @@ Highly selective 12 weeks intensive coding Bootcamp with only 10% acceptance rat
 
 ## Work Experience
 
-**YHA** ( December 2018 - Present)  
+**<a href="https://www.yha.org.uk/hostel/yha-london-earls-court">YHA</a>** ( December 2018 - Present)  
 _Night Duty Manager_
 
 - Sole member of staff on duty, responsible for over 160 guests. Dealing with and resolving complaints and high-pressure situations.
